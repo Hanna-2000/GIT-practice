@@ -1,3 +1,4 @@
 side=6
 area=side*side
-print(area)
+perimeter=4*side
+print(area,perimeter)
