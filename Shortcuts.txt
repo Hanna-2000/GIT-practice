@@ -1,0 +1,26 @@
+Shortcuts for VS Code
+
+Ctrl + C: Copy selected text.
+Ctrl + X: Cut selected text.
+Ctrl + V: Paste copied or cut text.
+Ctrl + Z: Undo the last action.
+Ctrl + Shift + Z: Redo the last undone action.
+Ctrl + A: Select all text in the active editor.
+Ctrl + F: Find text in the active editor.
+
+Ctrl + P: Quick open, allowing you to navigate to files.
+Ctrl + G: Go to a specific line number in the active file.
+F12: Go to the definition of a symbol (function, variable, etc.).
+
+Ctrl + /: Toggle line comment for the current line or selected block.
+Ctrl + ]: Indent the current line or selected block.
+Ctrl + [: Outdent the current line or selected block.
+Ctrl + Shift + D: Duplicate the current line or selection.
+Ctrl + Shift + K: Delete the current line or selection.
+Shift + Alt + F: Format the entire document.
+
+F5: Start debugging.
+Shift + F5: Stop debugging.
+F10: Step over (execute the current line and move to the next line).
+F11: Step into (move to the next line, but if it's a function call, go inside the function).
+Shift + F11: Step out (step out of the current function).
